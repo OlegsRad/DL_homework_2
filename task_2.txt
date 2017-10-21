@@ -1,0 +1,6 @@
+Регулярное выражение: \sO[a-Z]*@\w*.com
+Количество найденных совпадений: 2
+Найденные строки:
+
+Ove@commissioner.com . Do not respond to this email directly.   =09
+From: oportunity@cells4free.com
